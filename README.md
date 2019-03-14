@@ -12,7 +12,7 @@ We'll be working with a todo list _and_ a completed todos list. They'll be able 
 * You'll be adding the selectors again, but you do NOT have to touch the html management functions. Those selectors are all there for you.
 * Speaking of the html management functions, you'll see that we got rid of the need for you to fill in the query selectors there this time around.
 * Another big change to the html management functions is a more clear API. You should _not_ use the functions that start  with an underscore. That is a typical way to mark a function as "private", meaning it's for our use, not yours. Your entry points are `resetInputs`, `updateTodosOl`, and `updateCompletedOl`. _We_ use `\_clearOl` within those functions, but you know not to use it yourself because of the underscore.
-* What's an API, you might ask? It's like a user interface for other coders. We give you some code you can use, and try to make it clear how you can use it. By outlining which functions you should use, we're giving you some documentation of how to use our code. (Of course, ACTUAL documentation would be ideal for a real API.)
+* What's an API, you might ask? It's like a user interface for other coders. We give you some code you can use, and try to make it clear how you can use it. By outlining which functions you should use, we're giving you some documentation of how to use our code. (Of course, ACTUAL documentation would be ideal for a real API.) Later in this course we'll be using outside APIs, and hopefully the ones we choose will be well-documented and easy to use.
 
 #### Stretch Goals
 * We reserve the right to add some, but for now, if you finish this project early this weekend, do some codewars problems!
