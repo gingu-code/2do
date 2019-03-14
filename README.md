@@ -15,6 +15,7 @@ We'll be working with a todo list _and_ a completed todos list. They'll be able 
 * What's an API, you might ask? It's like a user interface for other coders. We give you some code you can use, and try to make it clear how you can use it. By outlining which functions you should use, we're giving you some documentation of how to use our code. (Of course, ACTUAL documentation would be ideal for a real API.)
 
 #### Stretch Goals
+* Make sure the move/remove input the user types in represents an actual item on your list.
 * Add headings for each list.
 * Add a check mark to the end of each completed item.
 * Add the current date at the top of the page; you'll definitely have to do some light research for that one!
