@@ -17,5 +17,5 @@ We'll be working with a todo list _and_ a completed todos list. They'll be able 
 #### Stretch Goals
 * We reserve the right to add some, but for now, if you finish this project early this weekend, do some codewars problems!
 
-[bucket-list-repo]: (https://github.com/abbreviatedman/bucket-list)
-[multicalc-repo]: (https://github.com/abbreviatedman/multicalc)
+[bucket-list-repo]: https://github.com/abbreviatedman/bucket-list
+[multicalc-repo]: https://github.com/abbreviatedman/multicalc
